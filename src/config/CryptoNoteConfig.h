@@ -247,7 +247,7 @@ const uint32_t P2P_DEFAULT_CONNECTION_TIMEOUT                = 5000;          //
 const uint32_t P2P_DEFAULT_PING_CONNECTION_TIMEOUT           = 2000;          // 2 seconds
 const uint64_t P2P_DEFAULT_INVOKE_TIMEOUT                    = 60 * 2 * 1000; // 2 minutes
 const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          // 5 seconds
-const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "";
+const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "joostisandersgeaard2019";
 
 const uint64_t DATABASE_WRITE_BUFFER_MB_DEFAULT_SIZE         = 256;
 const uint64_t DATABASE_READ_BUFFER_MB_DEFAULT_SIZE          = 10;
